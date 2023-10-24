@@ -19,13 +19,9 @@ Runs in the terminal
 The following image shows the web application's appearance and functionality: 
 ![This shows what home page will look like](./assets/images/)
 
-## Deployment Link
+## Video Link
 
-
-
-## Credits
-
-
+https://drive.google.com/open?id=1NSh4xvRSD1vpkVw5OwI9Vc7exw-0As5V&usp=drive_copy
 
 ## Built With
 
