@@ -17,7 +17,7 @@ Runs in the terminal
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality: 
-![This shows what home page will look like](./assets/images/)
+![This shows what home page will look like](./assets/images/preview.png)
 
 ## Video Link
 
